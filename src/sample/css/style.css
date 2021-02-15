@@ -1,0 +1,9 @@
+.root {
+    -fx-font-size: 16;
+}
+#sendButton {
+    -fx-background-color: gray;
+}
+#sendButton:hover {
+    -fx-background-color: black;
+}
