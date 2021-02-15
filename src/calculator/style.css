@@ -1,0 +1,7 @@
+.label {
+    -fx-border-color: black;
+    -fx-font-weight: bold;
+}
+.button {
+    -fx-font-weight: bold;
+}
