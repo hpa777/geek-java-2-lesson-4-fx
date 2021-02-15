@@ -120,5 +120,6 @@ public class Controller {
 
     public void pressClearButton(ActionEvent actionEvent) {
         label.setText("");
+        initFlags();
     }
 }
